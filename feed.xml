@@ -3,7 +3,7 @@
     <title>vietnamcementtile.com</title>
     <link href="https://vietnamcementtile.com/feed.xml" rel="self" />
     <link href="https://vietnamcementtile.com" />
-    <updated>2023-08-03T22:00:04+07:00</updated>
+    <updated>2023-08-03T22:04:10+07:00</updated>
     <author>
         <name>Vietnam Tiles</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://vietnamcementtile.com/media/posts/1/download-12.jpg" medium="image" />
             <category term="Cement Tiles"/>
 
-        <updated>2023-08-03T22:00:04+07:00</updated>
+        <updated>2023-08-03T22:04:10+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://vietnamcementtile.com/media/posts/1/download-12.jpg" alt="" />
@@ -30,6 +30,7 @@
             <![CDATA[
                     <p><img src="https://vietnamcementtile.com/media/posts/1/download-12.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Vietnam Cement Tile Company</p>
+<figure class="post__image"><img loading="lazy"  src="https://vietnamcementtile.com/media/posts/1/246351204_429626548568485_1457088304296070235_n.jpg" alt="" width="1080" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://vietnamcementtile.com/media/posts/1/responsive/246351204_429626548568485_1457088304296070235_n-xs.jpg 300w ,https://vietnamcementtile.com/media/posts/1/responsive/246351204_429626548568485_1457088304296070235_n-sm.jpg 480w ,https://vietnamcementtile.com/media/posts/1/responsive/246351204_429626548568485_1457088304296070235_n-md.jpg 768w"></figure>
             ]]>
         </content>
     </entry>
