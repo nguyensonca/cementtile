@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "vietnamcementtile.com",
     "description": "",
-    "home_page_url": "https://vietnamcementtiles.com",
-    "feed_url": "https://vietnamcementtiles.com/feed.json",
+    "home_page_url": "https://vietnamcementtile.com",
+    "feed_url": "https://vietnamcementtile.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Vietnam Tiles"
     },
     "items": [
         {
-            "id": "https://vietnamcementtiles.com/vietnam-cement-tile-company/",
-            "url": "https://vietnamcementtiles.com/vietnam-cement-tile-company/",
+            "id": "https://vietnamcementtile.com/vietnam-cement-tile-company/",
+            "url": "https://vietnamcementtile.com/vietnam-cement-tile-company/",
             "title": "Vietnam Cement Tile Company",
             "summary": "Vietnam Cement Tile Company",
             "content_html": "<p>Vietnam Cement Tile Company</p>",

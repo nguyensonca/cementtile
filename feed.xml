@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>vietnamcementtile.com</title>
-    <link href="https://vietnamcementtiles.com/feed.xml" rel="self" />
-    <link href="https://vietnamcementtiles.com" />
+    <link href="https://vietnamcementtile.com/feed.xml" rel="self" />
+    <link href="https://vietnamcementtile.com" />
     <updated>2023-08-03T21:45:58+07:00</updated>
     <author>
         <name>Vietnam Tiles</name>
     </author>
-    <id>https://vietnamcementtiles.com</id>
+    <id>https://vietnamcementtile.com</id>
 
     <entry>
         <title>Vietnam Cement Tile Company</title>
         <author>
             <name>Vietnam Tiles</name>
         </author>
-        <link href="https://vietnamcementtiles.com/vietnam-cement-tile-company/"/>
-        <id>https://vietnamcementtiles.com/vietnam-cement-tile-company/</id>
+        <link href="https://vietnamcementtile.com/vietnam-cement-tile-company/"/>
+        <id>https://vietnamcementtile.com/vietnam-cement-tile-company/</id>
             <category term="Cement Tiles"/>
 
         <updated>2023-08-03T21:45:58+07:00</updated>
