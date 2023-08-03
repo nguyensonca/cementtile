@@ -3,7 +3,7 @@
     <title>vietnamcementtile.com</title>
     <link href="https://vietnamcementtile.com/feed.xml" rel="self" />
     <link href="https://vietnamcementtile.com" />
-    <updated>2023-08-03T21:45:58+07:00</updated>
+    <updated>2023-08-03T22:00:04+07:00</updated>
     <author>
         <name>Vietnam Tiles</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://vietnamcementtile.com/vietnam-cement-tile-company/"/>
         <id>https://vietnamcementtile.com/vietnam-cement-tile-company/</id>
+        <media:content url="https://vietnamcementtile.com/media/posts/1/download-12.jpg" medium="image" />
             <category term="Cement Tiles"/>
 
-        <updated>2023-08-03T21:45:58+07:00</updated>
+        <updated>2023-08-03T22:00:04+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://vietnamcementtile.com/media/posts/1/download-12.jpg" alt="" />
                     Vietnam Cement Tile Company
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://vietnamcementtile.com/media/posts/1/download-12.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Vietnam Cement Tile Company</p>
             ]]>
         </content>
